@@ -1,6 +1,6 @@
-# Estructuras de datos
+# Estructuras de datos 🤖
 
-Implementaciones de los árboles y grafos vistos en la clase de estructuras de datos en la Universidad Javeriana
+Implementaciones de los árboles y grafos vistos en la clase de estructuras de datos en la Universidad Javeriana.
 - Árbol general
 - Árbol binario ordenado
 - Árbol AVL
